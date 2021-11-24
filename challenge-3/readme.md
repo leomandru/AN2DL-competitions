@@ -7,7 +7,7 @@ We embedded the questions (GloVe) and we also encoded the images (VGG). Finally,
 
 Something like the following graph:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/leomandru/AN2DL-competitions/blob/main/challenge-3/graphics/img1.png)
 
 In this way, we can look at the problem almost as to a classification one.
 
