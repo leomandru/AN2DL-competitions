@@ -1,4 +1,4 @@
-# DATA SET
+# DATASET
 
 To download the dataset, just go on the "Data" section at this [link](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020).
 
