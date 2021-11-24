@@ -1,5 +1,7 @@
 # DATA SET
 
+To download the dataset, just go on the "Data" section at this [link](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020).
+
 Firstly, we searched online how to manage the creation of two different generators (one for the training set and the other for the validation set) from the unique folder provided on Kaggle (“MaskDataset/training”).
 There are 2 different solutions for this kind of problem:
 1.	The first one with a method called `flow_from_directory()`. It implies that the folders are structured in such a way the photos we want to use for training are in a directory divided in 3 subdirectories named as the 3 output classes (0, 1, 2). The same for the validation set. 
