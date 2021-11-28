@@ -1,5 +1,7 @@
 # DATASET
 
+To have the dataset, you must log-in and download from this [link](https://competitions.codalab.org/competitions/27176).
+
 We wrote some pieces of code to create training and validation sets. Thus, we obtained 2 folders (training and validation) containing 80% and 20% of the whole images set (all the images from the 4 teams belonging to the 2 different crops).
 
 # FIRST APPROACH
